@@ -1,0 +1,138 @@
+[
+    {
+        "id": 1,
+        "name": "Babel and Cream Cheese",
+        "img": "https://i.ibb.co/WcJQ0Bj/breakfast4.png",
+        "category": "breakfast",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$10"
+    },
+    {
+        "id": 2,
+        "name": "Breakfast SandWich",
+        "img": "https://i.ibb.co/tQgZRbV/breakfast2.png",
+        "category": "breakfast",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$30"
+    },
+    {
+        "id": 3,
+        "name": "Baked Chicken",
+        "img": "https://i.ibb.co/wLZq596/breakfast3.png",
+        "category": "breakfast",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$9"
+    },
+    {
+        "id": 4,
+        "name": "Eggs Benedict",
+        "img": "https://i.ibb.co/MB3g83Q/breakfast1.png",
+        "category": "breakfast",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$21"
+    },
+    {
+        "id": 5,
+        "name": "Toast Coissant Fried Egg",
+        "img": "https://i.ibb.co/1d7D21x/breakfast5.png",
+        "category": "breakfast",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$12"
+    },
+    {
+        "id": 7,
+        "name": "Healthy Meal Plan",
+        "img": "https://i.ibb.co/kgxCDc6/lunch1.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$3"
+    },
+    {
+        "id": 8,
+        "name": "Fried Chicken Bento",
+        "img": "https://i.ibb.co/1dFGszD/lunch2.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$76"
+    },
+    {
+        "id": 9,
+        "name": "Tarragon Rubbed Salmon",
+        "img": "https://i.ibb.co/2Zb6Hmb/lunch3.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$38"
+    },
+    {
+        "id": 10,
+        "name": "Indian Lunch",
+        "img": "https://i.ibb.co/sKCGFQ9/lunch4.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$32"
+    },
+    {
+        "id": 11,
+        "name": "Mutton Steak",
+        "img": "https://i.ibb.co/dm94zRS/lunch5.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$25"
+    },
+    {
+        "id": 12,
+        "name": "Honey soy Salmon",
+        "img": "https://i.ibb.co/4KQSQhp/lunch6.png",
+        "category": "lunch",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$55"
+    },
+    {
+        "id": 13,
+        "name": "Salmon With grapefruit and lentil salad",
+        "img": "https://i.ibb.co/6sGZ7Vv/dinner1.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$11"
+    },
+    {
+        "id": 14,
+        "name": "Lamony Salmon Picatta",
+        "img": "https://i.ibb.co/6YskkDz/dinner2.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$33"
+    },
+    {
+        "id": 15,
+        "name": "Pork Tenderloin With Quiona Pilaf",
+        "img": "https://i.ibb.co/qM6yRsr/dinner3.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$14"
+    },
+    {
+        "id": 16,
+        "name": "French fries with cheese",
+        "img": "https://i.ibb.co/hmtbhvW/dinner4.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$35"
+    },
+    {
+        "id": 17,
+        "name": "Garlic butter baked Salmon",
+        "img": "https://i.ibb.co/LkV68wZ/dinner5.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$65"
+    },
+    {
+        "id": 18,
+        "name": "Baked Chicken",
+        "img": "https://i.ibb.co/WFkczB3/dinner6.png",
+        "category": "dinner",
+        "des": "these foods are very tasty and i just want to have it.",
+        "price": "$56"
+    }
+]
